@@ -16,6 +16,7 @@ This projects contains an example of Express app that works with JSON Schema.
 
 ## Data validations: 
 this is our JSON data with all required fields
+
 ``
 {
   "isbn": "0691161518",
